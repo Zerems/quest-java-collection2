@@ -4,10 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class Thanos {
-    public interface Comparable<T> {
 
-        int compareTo(T var1);
-    }
 
 
 
